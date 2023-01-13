@@ -1,0 +1,49 @@
+#head{
+    background-color: rgb(255, 255, 255);
+}
+
+#body{
+    background-color: rgb(240, 107, 185);
+}
+
+#ptag{
+    color: aquamarine;
+}
+
+#btag{
+    color: cyan;
+    font-weight: 800;
+}
+
+#labe{
+    color: peachpuff;
+}
+
+#pObject{
+    color: yellow;
+}
+
+#pAccuracy{
+    color: yellow;
+}
+
+#camera{
+    border: 2px dashed rgb(35, 217, 111);
+    width: 360px;
+    height: 300px;
+}
+
+#result{
+    border: 2.5px dashed greenyellow;
+    width: 360px;
+    height: 300px;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#labe{
+    color:rgb(255, 255, 255);
+}
